@@ -1,14 +1,10 @@
-## github-tutorial
-Hello! This is the testing repo for 599 where students will submit their test branch 🚀
+Individual tree segmentation using multi-temporal UAS data
 
-Now that you're here...
-Please follow the steps below: 
 
-1. Clone the GitHub Repo to your local computer using method of choice (GitHub Desktop, command line etc.) 
-2. Create a new Branch called "LASTNAME_FIRSTNAME_branch"
-3. Publish your new Branch and Fork repo - say "yes I want to make this a fork" since you won't have write access to the repo
-5. Edit the README.md file and write a brief description that you could use for your 599 project - If you already have one.. Great! Make it better in some way and submit that (add a photo? add in your contact info?)
-6. Commit changes
-7. Push Changes to remote origin
-8. Take a screenshot of your GitHub forked repo with your README and **submit on Canvas to recieve a participation grade**
+
+Description:
+
+This study analyzes the UAV data collected on the gridded forest genetic trial sites for phenotyping established in British Columbia (BC) in 2003. Several drone flights over the years of 2022 and 2023 were conducted on these trial sites, collecting multispectral, LiDAR, and thermal data. This study seeks to explore the application of Individual Tree Segmentation (ITS) algorithms over multi-temporal Unmanned Aerial Systems (UAS) data collected over these experimental sites in BC. The objective of this project is to compare various individual tree segmentation (ITS) algorithms on a time-series data set and evaluate their accuracy against the field measurements, including stem-mapped plots. We will also explore the opportunities, challenges, and limitations of applying these segmentation algorithms over the multi-temporal nature of the datasets, including but not limited to the changes in the acquisition parameters such as flight altitude and point density.
+
+
 
